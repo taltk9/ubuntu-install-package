@@ -1,0 +1,13 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:pidgin-developers/ppa -y",
+		"!update",
+		"pidgin pidgin-data pidgin-plugin-pack pidgin-themes",
+		"pidgin-lastfm pidgin-guifications msn-pecan pidgin-musictracker"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

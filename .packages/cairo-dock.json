@@ -1,0 +1,13 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:cairo-dock-team/ppa -y",
+		"$sudo add-apt-repository ppa:xubuntu-dev/xfce-4.10 -y",
+		"!update",
+		"cairo-dock"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-25",
+	"font": ""
+}

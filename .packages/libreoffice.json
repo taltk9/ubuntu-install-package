@@ -1,0 +1,12 @@
+{
+	"command": [
+		"python-software-properties",
+		"$sudo apt-add-repository ppa:libreoffice/libreoffice-4-0 -y",
+		"libreoffice"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

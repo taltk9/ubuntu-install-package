@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:thopiekar/darling -y",
+		"!update",
+		"darling"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-02-27",
+	"font": "http://www.itworld.com/software/370997/install-darling-os-x-emulator-ubuntu-1310-or-1304"
+}

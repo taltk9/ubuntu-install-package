@@ -1,0 +1,10 @@
+{
+	"command": [
+		"icedtea-7-plugin openjdk-7-jre"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

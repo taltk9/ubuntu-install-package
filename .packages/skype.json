@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository \"deb http://archive.canonical.com/ $(lsb_release -sc) partner\" -y",
+		"!update",
+		"skype"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

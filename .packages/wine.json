@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:ubuntu-wine/ppa -y",
+		"!update",
+		"wine1.5"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

@@ -1,0 +1,13 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:ubuntu-sdk-team/ppa -y",
+		"$sudo add-apt-repository ppa:jerzy-kozera/zeal-ppa -y",
+		"!update",
+		"zeal"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": "http://xmodulo.com/2013/12/browse-search-api-documentation-offline-linux.html"
+}

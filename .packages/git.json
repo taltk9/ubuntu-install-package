@@ -1,0 +1,11 @@
+{
+	"command": [
+		"git-core",
+		"$git config --global color.ui auto"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-25",
+	"font": ""
+}

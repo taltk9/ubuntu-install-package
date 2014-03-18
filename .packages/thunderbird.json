@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:mozillateam/thunderbird-stable -y",
+		"!update",
+		"thunderbird xul-ext-lightning xul-ext-calendar-timezones"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}

@@ -1,0 +1,14 @@
+{
+	"command": [
+		"$sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup",
+		"$sudo sh -c 'echo \"\n## ABNTEX2\ndeb http://distrib.abntex2.googlecode.com/hg/debian/ testing main\ndeb-src http://distrib.abntex2.googlecode.com/hg/debian/ testing main\" >> /etc/apt/sources.list'",
+		"$sudo wget -O - http://distrib.abntex2.googlecode.com/hg/debian/89C55467.asc | sudo apt-key add -",
+		"!update",
+		"abntex2"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": "http://raonyguimaraes.com/2013/06/07/installing-abntex2-in-ubuntu-12-04/"
+}

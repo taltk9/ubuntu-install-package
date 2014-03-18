@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y",
+		"!update",
+		"sublime-text-installer"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-01-14",
+	"font": ""
+}
