@@ -2,12 +2,15 @@
 
 ##Install
 
-*Download* or *clone* this repository.
-
-Create an alias to application:
+*	_Download_ or _clone_ this repository
+*	Preferably place the folder in the directory `/home`
+* 	Let the folder name as `ubuntu-install-package`
+*	Access the folder
 ```
-# sudo echo "alias ubuntu-install-package='python ~/ubuntu-install-package/install.py'" >> ~/.bashrc
+# cd ~/ubuntu-install-package
 ```
-PS.: Put the absolute path of `ubuntu-install-package` folder in the alias code line.
 
-PS[2].: You can change the alias name if you want.
+*	Start the installer
+```
+# sudo python install.py
+```
