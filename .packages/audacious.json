@@ -1,0 +1,15 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:nilarimogard/webupd8 -y",
+		"!update",
+		"audacious audacious-plugins"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-04-28",
+	"font": [
+		"http://ubuntuhandbook.org/index.php/2013/11/install-audacious-3-4-2-ppa-ubuntu/",
+		"http://linuxg.net/how-to-install-audacious-on-ubuntu-13-04-12-10-12-04-and-linux-mint-14-13/"
+	]
+}
