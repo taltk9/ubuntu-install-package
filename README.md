@@ -14,3 +14,5 @@
 ```
 # sudo python install.py
 ```
+
+![Installing packages](install.jpg "Installing packages")
