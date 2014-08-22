@@ -1,0 +1,12 @@
+{
+	"command": [
+		"$sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora -y",
+		"!update",
+		"firefox"
+	],
+	"author": "Thiago Alves",
+	"twitter": "@taltk9",
+	"github": "",
+	"date": "2014-08-22",
+	"font": "http://www.ubuntuupdates.org/ppa/firefox_aurora"
+}
